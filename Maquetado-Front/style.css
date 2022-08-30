@@ -1,0 +1,63 @@
+/* header */
+header {
+    background-image: url(./Images/plantas4.jpg);
+    background-size: cover;
+    height: 100px;
+}
+
+header i {
+    font-size: 40px;
+    margin-right: 10px;
+    margin-top: 70%;
+}
+
+header button {
+    margin-top: -30px;
+}
+
+.fa-instagram{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.fa-square-facebook{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.fa-square-github{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.fa-square-twitter{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.fa-linkedin{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.btn-outline-primary{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.btn{
+    border-color: #FFFF66;
+}
+
+.Brillante{
+    color: #FFFF66;
+    filter: drop-shadow(0px 0px 10px #FFFF66);
+}
+
+.btn-focus-box-shadow{
+    box-shadow: 0px 0px 10px #FFFF66;
+}
+
+body {
+    background-image: url(./Images/D6D9CB.png);
+}
